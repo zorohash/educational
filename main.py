@@ -1,3 +1,8 @@
-f =1
+f = 1
 if(f==1):
     print(f)
+else:
+    print(2)
+z = 4
+print("hello world")
+print("gh")
