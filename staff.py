@@ -8,3 +8,4 @@ num(3)
 i = 4
 for x in range(i):
     print(x)
+dicttionary = ["1", 1]
