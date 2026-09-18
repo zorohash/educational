@@ -6,3 +6,6 @@ else:
 z = 4
 print("hello world")
 print("gh")
+
+if z==2:
+    print(2)
