@@ -6,3 +6,5 @@ num(3)
 # add some features
 
 i = 4
+for x in range(i):
+    print(x)
