@@ -20,3 +20,4 @@ class math():
         print(self.num1 * self.num2)
 
 (math(1,2).Multiplication())
+print(1)
