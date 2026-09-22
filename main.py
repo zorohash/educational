@@ -9,3 +9,5 @@ print("gh")
 
 if z==2:
     print(2)
+
+# i wana strange code
